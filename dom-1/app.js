@@ -3,7 +3,7 @@ window.onload = () => {
     main()
 }
 
-// main function
+// main function 
 const main = () => {
     let bgColor = document.getElementById('bgColor')
     let btn = document.getElementById('btn')
